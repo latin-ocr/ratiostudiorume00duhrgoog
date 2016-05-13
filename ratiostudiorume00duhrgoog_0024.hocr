@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ratiostudiorume00duhrgoog_0024.png"; bbox 0 0 883 1385; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 286 422 477 457">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 286 422 477 457">
+     <span class='ocr_line' id='line_1_1' title="bbox 286 422 477 457; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 286 422 390 456; x_wconf 77' lang='lat' dir='ltr'><strong>Erster</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 412 422 477 457; x_wconf 77' lang='lat' dir='ltr'>Teil</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 95 565 662 669">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 95 565 662 669">
+     <span class='ocr_line' id='line_1_2' title="bbox 95 565 662 591; baseline 0 -5"><span class='ocrx_word' id='word_1_3' title='bbox 95 565 305 591; x_wconf 75' lang='lat' dir='ltr'><strong>verordnungen</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 319 565 366 586; x_wconf 80' lang='lat' dir='ltr'><strong>der</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 380 565 505 586; x_wconf 67' lang='lat' dir='ltr'>Generfile</span> <span class='ocrx_word' id='word_1_6' title='bbox 519 565 566 586; x_wconf 78' lang='lat' dir='ltr'><strong>der</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 580 566 662 587; x_wconf 65' lang='lat' dir='ltr'><strong>GesJ.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 224 604 537 626; baseline -0.003 0"><span class='ocrx_word' id='word_1_8' title='bbox 224 604 267 626; x_wconf 79' lang='lat' dir='ltr'><strong>fi&#39;u·</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 280 604 327 626; x_wconf 80' lang='lat' dir='ltr'><strong>das</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 342 604 537 626; x_wconf 78' lang='lat' dir='ltr'><strong>Studienwesen</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 202 643 562 669; baseline 0.003 -5"><span class='ocrx_word' id='word_1_11' title='bbox 202 648 254 664; x_wconf 86' lang='lat' dir='ltr'><strong>von</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 269 644 331 665; x_wconf 84' lang='lat'><strong>1600</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 345 643 385 664; x_wconf 85' lang='lat' dir='ltr'><strong>bis</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 398 649 482 669; x_wconf 69' lang='lat' dir='ltr'>gagen</span> <span class='ocrx_word' id='word_1_15' title='bbox 496 644 562 665; x_wconf 77' lang='lat'><strong>1772.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
